@@ -1,0 +1,10 @@
+tr > td {
+    border : 10px solid #000;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    background: white;
+    text-align: center;
+    font-size: 74px;
+}
+

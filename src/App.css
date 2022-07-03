@@ -1,0 +1,35 @@
+body{
+  background-color: #F3B18C;
+}
+
+.App {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1366px;
+  height: 768px;
+  margin-left:355px;
+  margin-top: 225px;
+
+
+font-family: 'Finger Paint';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 45px;
+}
+
+#baslik {
+  position: absolute;
+  width: 254px;
+  height: 65px;
+
+  font-size: 44px;
+  font-style: normal;
+  color: #0026ED;
+  display: block;
+  margin-left: 350px;
+  margin-top: -135px;
+}
+
